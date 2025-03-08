@@ -1,0 +1,4 @@
+Tensorflow
+Pandas 
+nltk
+scikit-learn
