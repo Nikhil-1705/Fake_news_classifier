@@ -1,4 +1,3 @@
-Here are short descriptions for your GitHub project descriptions:
 
 Fake News Classifier
 A deep learning model for detecting fake news using LSTM. The model processes textual data, extracts features, and classifies news articles as real or fake. Implemented using TensorFlow/Keras with NLP preprocessing techniques.
